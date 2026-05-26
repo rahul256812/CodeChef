@@ -1,0 +1,155 @@
+Q1. Variable Initialization
+What does this C code print?
+#include <stdio.h>
+int main() {
+    int number = 10;
+    printf("%d", number);
+    return 0;
+}
+A) 10
+B) number
+C) 00
+D) Error
+Answer: A
+
+Q2. Data Type Precision
+What is the output of the given C code?
+#include <stdio.h>
+int main() {
+    float value = 7.8;
+    printf("%f", value);
+    return 0;
+}
+A) 7
+B) 7.800000
+C) 8
+D) 7.5
+Answer: B
+
+Q3. Variable Declaration
+What does this C code print?
+#include <stdio.h>
+int main() {
+    char letter;
+    letter = 'A';
+    printf("%c", letter);
+    return 0;
+}
+A) A
+B) letter
+C) 65
+D) 1
+Answer: A
+
+Q4. Data Type Size
+What is the output of the following C code? (Consider the modern 32-bit computer architecture)
+#include <stdio.h>
+int main() {
+    printf("Size of double: %lu", sizeof(double));
+    return 0;
+}
+A) Size of double: 4
+B) Size of double: 8
+C) Size of double: 2
+D) Error
+Answer: B
+
+Q5. Variable Scope
+What does the given C code print?
+#include <stdio.h>
+int main() {
+    int num = 5;
+    {
+        int num = 10;
+        printf("%d ", num);
+    }
+    printf("%d", num);
+    return 0;
+}
+A) 10 5
+B) 5 10
+C) 10 10
+D) Error
+Answer: A
+
+Q6. Data Type Conversion
+What is the output of the following C code?
+#include <stdio.h>
+int main() {
+    int integer = 5;
+    float floating = 7.2;
+    printf("%f", integer + floating);
+    return 0;
+}
+A) 12.200000
+B) 5.0
+C) 7
+D) 7.00
+Answer: A
+
+Q7. Variable Initialization with Expression
+What does this C code print?
+#include <stdio.h>
+int main() {
+    int x = 2, y = 3, z;
+    z = x * y;
+    printf("%d", z);
+    return 0;
+}
+A) 5
+B) x * y
+C) 6
+D) 3 * 2
+Answer: C
+
+Q8. Data Type Overflow
+What is the output of the following C code?
+#include <stdio.h>
+int main() {
+    char character = 130;
+    printf("%d", character);
+    return 0;
+}
+A) 140
+B) -126
+C) 256
+D) 130
+Answer: B
+
+Q9. Identify Invalid Data Type - MCQ
+Which of the following is NOT a valid data type in C?
+A) float
+B) char
+C) string
+D) double
+Answer: C
+
+Q10. Division Operator - MCQ
+What will be the output of the following code snippet?
+#include <stdio.h>
+int main() {
+    float num = 10 / 3;
+    printf("%f\n", num);
+    return 0;
+}
+A) 3.333333
+B) 3.000000
+C) 3
+D) Compilation Error
+Answer: B
+
+Q11. Format Specifiers - MCQ
+What would be the output of the following code:
+#include <stdio.h>
+int main() {
+    int x = 5;
+    float f = 3.4;
+    printf("%d\n%d", x, f);
+}
+A) 5 3.4
+B) 5
+   3.4
+C) Compilation Error
+D) 5
+   random number
+Answer: D

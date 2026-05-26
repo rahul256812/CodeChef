@@ -5,11 +5,11 @@ This folder contains introductory exercises, multiple-choice questions (MCQs), a
 ## Contents
 
 ### 1. Multiple-Choice Questions (MCQs)
-* **File:** [`mcq.txt`](file:///Users/rahul/Desktop/IMP_PROJECT/CodeChef/CProgramming/Introduction_Output_and_Math_Operators/mcq.txt)
+* **File:** [`mcq.txt`](./mcq.txt)
 * **Description:** A set of 22 multiple-choice questions covering core C programming concepts, basic Python arithmetic operators, escape characters (`\n`, `\\`), and format specifiers (`%d`, `%c`, `%f`, `%s`).
 
 ### 2. Sum of Two Numbers
-* **File:** [`sum.c`](file:///Users/rahul/Desktop/IMP_PROJECT/CodeChef/CProgramming/Introduction_Output_and_Math_Operators/sum.c)
+* **File:** [`sum.c`](./sum.c)
 * **Description:** A simple C program that defines two integer variables (`44` and `88`), computes their sum, and prints the result.
 * **Output:**
   ```text
@@ -17,7 +17,7 @@ This folder contains introductory exercises, multiple-choice questions (MCQs), a
   ```
 
 ### 3. Print Dollar Sign ($)
-* **File:** [`print_dollar.c`](file:///Users/rahul/Desktop/IMP_PROJECT/CodeChef/CProgramming/Introduction_Output_and_Math_Operators/print_dollar.c)
+* **File:** [`print_dollar.c`](./print_dollar.c)
 * **Description:** A C program designed to output the `$` character on the screen.
 * **Output:**
   ```text
@@ -25,7 +25,7 @@ This folder contains introductory exercises, multiple-choice questions (MCQs), a
   ```
 
 ### 4. Multi-Line Expression Output
-* **File:** [`expression_output.c`](file:///Users/rahul/Desktop/IMP_PROJECT/CodeChef/CProgramming/Introduction_Output_and_Math_Operators/expression_output.c)
+* **File:** [`expression_output.c`](./expression_output.c)
 * **Description:** A C program that outputs a multi-line string showing the result of the expression `5 + 3` using a single `printf` statement.
 * **Output:**
   ```text
@@ -34,7 +34,7 @@ This folder contains introductory exercises, multiple-choice questions (MCQs), a
   ```
 
 ### 5. Printing Triangles Challenge
-* **File:** [`triangle.c`](file:///Users/rahul/Desktop/IMP_PROJECT/CodeChef/CProgramming/Introduction_Output_and_Math_Operators/triangle.c)
+* **File:** [`triangle.c`](./triangle.c)
 * **Description:** A C program that prints a star pyramid pattern using a single `printf` statement and newlines.
 * **Output:**
   ```text
