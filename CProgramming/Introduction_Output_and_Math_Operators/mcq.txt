@@ -1,0 +1,266 @@
+Q1. Which of the following is a valid arithmetic operator in Python?
+A) @
+B) //
+C) $
+D) #
+Answer: B
+
+Q2. What is the output of print(2 ** 3)?
+A) 6
+B) 5
+C) 8
+D) 9
+Answer: C
+
+Q3. What will be the output of the code snippet?
+#include <stdio.h>
+int main() {
+    printf("Hello, ");
+    printf("world!");
+    return 0;
+}
+A) Hello, world! (with a line break)
+B) Hello \n world!
+C) HelloWorld!
+D) Hello, world! (on the same line)
+Answer: D
+
+Q4. How do you print the number 108 using arithmetic operations on the numbers 9 and 12 in C?
+A) print(9/12);
+B) print(9*12);
+C) cout<<9*12;
+D) printf("%d", 9*12);
+Answer: D
+
+Q5. How can we print the difference between 9 and 3 in C?
+A) print(9-3);
+B) cout<<9-3;
+C) printf("%d", 9-3);
+D) printf("%d", 9)-printf("%d", 3);
+Answer: C
+
+Q6. What will be the output of the code snippet?
+#include <stdio.h>
+int main() {
+    printf("%d ", 10/2);
+    printf("%d", 10/2.00 + 1);
+    return 0;
+}
+A) 5 6
+B) 5 5
+C) 5 Undefined behavior
+D) 6 5
+Answer: A
+
+Q7. How to print the digit '9' as a character in C?
+A) printf("%c", '9');
+B) printf("%a", '9');
+C) printf("%d", '9');
+D) printf("%s", '9');
+Answer: A
+
+Q8. What will be the output of this code snippet?
+#include <stdio.h>
+int main() {
+    printf("%d", 10 % 3);
+    return 0;
+}
+A) 1
+B) 2
+C) 3
+D) 00
+Answer: A
+
+Q9. What would be the output of the following code?
+#include <stdio.h>
+int main() {
+    printf("Hello\nAnd Welcome John");
+}
+A) HelloAnd Welcome John
+B) Hello (on line 1) and And Welcome John (on line 2)
+C) Hello And \n Welcome John
+D) Hello \n And Welcome \n John
+Answer: B
+
+Q10. What would be the output of the following code?
+#include <stdio.h>
+int main() {
+    char ch = 'A';
+    printf("%c", ch + 1);
+    return 0;
+}
+A) A
+B) B
+C) 66
+D) Compilation Error
+Answer: B
+
+Q11. Print Number - MCQ
+What would be the output of the following code:
+#include <stdio.h>
+int main() {
+    printf("%f", 10);
+    return 0;
+}
+A) 10.0
+B) 10
+C) Undefined
+D) Compilation Error
+Answer: C
+
+Q12. Sequential Output Challenge
+What will the following C code print?
+#include <stdio.h>
+int main() {
+    printf("Hello ");
+    printf("World!");
+    return 0;
+}
+A) Hello World!
+B) Hello\nWorld!
+C) Hello
+D) World!
+Answer: A
+
+Q13. Single vs Multiple Lines Quiz
+Which of these statements prints the displayed text in the problem statement?
+Hello
+World!
+A) printf("Hello World!");
+B) printf("Hello"); printf("World!");
+C) printf("Hello\nWorld!");
+D) printf("Hello"); \n printf("World!");
+Answer: C
+
+Q14. Basic Expression Printing Test
+What is the output of the given code?
+#include <stdio.h>
+int main() {
+    printf("1 + 2 = %d", 1 + 2);
+    return 0;
+}
+A) 1 + 2 = 3
+B) 1 + 2
+C) 3
+D) 6
+Answer: A
+
+Q15. String Formatting Exercise
+What will be printed by the given code?
+#include <stdio.h>
+int main() {
+    printf("Prints %s and %s", "on", "multiple lines");
+    return 0;
+}
+A) Prints on and multiple lines
+B) Prints on multiple lines
+C) Prints %s and %s
+D) Error
+Answer: A
+
+Q16. Printing Concatenation Challenge
+What will be the output of the given code?
+#include <stdio.h>
+int main() {
+    printf("Programming");
+    printf("Language");
+}
+A) Programming\nLanguage
+B) ProgrammingLanguage
+C) Programming
+   Language
+D) Programming
+   Lanugage
+Answer: B
+
+Q17. Single printf Mastery Assessment
+What will be the output of this C code?
+#include <stdio.h>
+int main() {
+    printf("1\n2\n3");
+    return 0;
+}
+A) 1\n2
+   3
+B) 1\n2\n3
+C) 123
+D) 1
+   2
+   3
+Answer: D
+
+Q18. Escape Sequence Challenge
+What will be printed by the given C code?
+#include <stdio.h>
+int main() {
+    printf("This is a backslash: \\");
+    return 0;
+}
+A) This is a backslash: \
+B) This is a backslash: \\
+C) This is a backslash:
+D) This is a backslash: \n
+Answer: A
+
+Q19. Mixed Output Challenge
+What will be the output of the given code snippet?
+#include <stdio.h>
+int main() {
+    printf("Hello, ");
+    printf("how are you?\n");
+    printf("I'm fine.");
+    return 0;
+}
+A) Hello, how are you?
+B) Hello, how are you?
+   I'm fine.
+C) Hello,
+   how are you?
+   I'm fine.
+Answer: B
+
+Q20. Newline in Printf Output - MCQ
+What would be the output of the following code:
+#include <stdio.h>
+int main() {
+    printf("In the\nnmiddle of difficulty\nnlies opportunity");
+}
+A) In the middle of difficulty
+   lies opportunity
+B) In the
+   middle of difficulty lies opportunity
+C) In the
+   middle of difficulty
+   lies opportunity
+D) In the middle of difficulty lies opportunity
+Answer: C
+
+Q21. Pattern Printing Output - MCQ
+What would be the output of the following code:
+#include <stdio.h>
+int main() {
+    printf("1\n1 2\n1 2 3\n1 2 3 4");
+}
+A) 1 1 2 1 2 3
+   1 2 3 4
+B) 1
+   1 2 1 2 3
+   1 2 3 4
+C) 1 1 2 1 2 3 1 2 3 4
+D) 1
+   1 2
+   1 2 3
+   1 2 3 4
+Answer: D
+
+Q22. Print Another Pattern - MCQ
+What would be the output of the following code:
+#include <stdio.h>
+int main() {
+    printf(" * \n  **\n   ***\n    ****\n*****");
+}
+A) Option A
+B) Option B
+C) Option C
+D) Option D
+Answer: B
