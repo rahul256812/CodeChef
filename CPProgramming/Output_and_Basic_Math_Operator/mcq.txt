@@ -1,0 +1,169 @@
+Q1. Code Output - MCQ
+What does the following code snippet do?
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    cout << 21 + 40;
+    return 0;
+}
+A) Reads two numbers from the console
+B) Adds two numbers and prints the result
+C) Multiplies two numbers and prints the result
+D) None of the above
+Answer: B
+
+Q2. Print Coding, Chef!
+How would you print the below text?
+Coding, Chef!
+A) cout << "Coding, Chef!";
+B) cout << Coding, Chef!;
+C) cout << 'Coding, Chef!';
+D) cout << Coding << Chef;
+Answer: A
+
+Q3. Identify Correct Syntax
+What is the correct syntax for printing the number 5?
+A) print(5);
+B) display(5);
+C) console.log(5);
+D) cout << 5;
+Answer: D
+
+Q4. Print difference of 10 and 3
+How do you print the result of difference between 10 and 3?
+A) cout << 10 - 3;
+B) cout << diff(10 - 3);
+C) diff(10 - 3)
+D) cout << 10 - 3
+Answer: A
+
+Q5. Correct Syntax for Header
+Identify the correct syntax from the options below.
+A) #include <iostream>;
+B) ?include <iostream>;
+C) #include <iostream>
+D) #include <iostream>;
+Answer: C
+
+Q6. Print String num
+How would you print the string stored in variable named num ?
+A) cout << num;
+B) cout << "num";
+C) cout << value(num);
+D) cout << get(num);
+Answer: A
+
+Q7. Print 6 divided by 2
+How can you print the result of 6 divided by 2?
+A) cout << 6 / 2;
+B) div(6, 2);
+C) cout << div(6, 2) ;
+D) None of the above
+Answer: A
+
+Q8. Identify Incorrect Syntax
+Identify the incorrect syntax from the given options.
+A) cout << "Hello, World";
+B) cout << 5 + 3 / 2;
+C) cout << "Hello, World';
+D) cout << "5 + 3";
+Answer: C
+
+Q9. cout Concatenation - MCQ
+What does the following code print?
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Code" << "Chef";
+}
+A) CodeChef
+B) Code Chef
+C) Code
+   Chef
+D) Code and Chef
+Answer: A
+
+Q10. Print 5 5
+How do you print "5 5"?
+A) cout << 5 << 5;
+B) cout << 5 << "" << 5;
+C) cout << 5 << " " << 5;
+D) cout << 5 ; cout << 5;
+Answer: C
+
+Q11. Output Sequence - MCQ
+What does the following code achieve?
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << 8 << endl << 13 << " " << 21 << endl;
+}
+A) Prints three numbers on separate lines
+B) Prints three numbers on the same line
+C) Prints one number on the first line, two numbers on the next line
+D) Throws a compilation error
+Answer: C
+
+Q12. Role of endl
+What is the role of "\n" in the below code?
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << 7 << "\n" << 5;
+}
+A) Subtraction
+B) Addition
+C) Division
+D) None of the above
+Answer: D
+
+Q13. Print Cpp Programming
+To print "C++" and "Programming" on the same line with a space in between, you would write:
+A) cout << "C++Programming";
+B) cout << "C++ " << "Programming";
+C) cout << "C++" << "Programming";
+D) cout << "C++" << endl << "Programming";
+Answer: B
+
+Q14. Guess the Output - MCQ
+What will be the output of the following code snippet?
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello " << "World" << 5 << " endl" << 2;
+}
+A) Hello World5 endl2
+B) Hello World5
+   2
+C) Hello World 5
+   2
+D) Hello World 5 endl 2
+Answer: A
+
+Q15. Guess the Output - MCQ
+What will the following code output?
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello " << endl << " World!";
+}
+A) Hello World!
+B) HelloWorld!
+C) Hello 
+    World!
+D) None of the above
+Answer: C
+
+Q16. Print 1 to 5
+How do you print the numbers 1 to 5 on the same line with spaces?
+A) cout << 1 << " " << 2 << " " << 3 << " " << 4 << " " << 5;
+B) cout << "1 2 3 4 5";
+C) Both A and B
+D) None of the above
+Answer: C
