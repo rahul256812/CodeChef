@@ -1,0 +1,139 @@
+Q1. Sum and Print - MCQ
+What does the following code snippet do?
+print(21 + 40)
+A) Reads two numbers from the console
+B) Adds two numbers and prints the result
+C) Multiplies two numbers and prints the result
+D) None of the above
+Answer: B
+
+Q2. Print Coding Chef
+How would you print the below text?
+Coding, Chef!
+A) print("Coding, Chef!")
+B) print(Coding, Chef!)
+C) print({Coding, Chef!})
+D) print(Coding,Chef)
+Answer: A
+
+Q3. Identify Correct Syntax
+What is the correct syntax for printing the number 5?
+A) print(5)
+B) display(5)
+C) printf(5)
+D) show(5)
+Answer: A
+
+Q4. Print difference of 10 and 3
+How do you print the result of difference between 10 and 3?
+A) print(10-3)
+B) print(diff(10-3))
+C) diff(10 - 3)
+D) show(diff(10 - 3))
+Answer: A
+
+Q5. Identify Correct Syntax
+Identify the correct syntax from the given options.
+A) print("Hello "World")
+B) print(Hello World)
+C) print("Hello World")
+D) print("Hello)
+Answer: C
+
+Q6. Print String num
+How would you print the string stored in string variable named num?
+A) print(num)
+B) print("num");
+C) print(value(num))
+D) print(get(num))
+Answer: A
+
+Q7. Print 6 divided by 2
+How can you print the result of 6 divided by 2?
+A) print(6/2)
+B) div(6, 2);
+C) print(div(6/2))
+D) None of the above
+Answer: A
+
+Q8. Identify Incorrect Syntax
+Identify the incorrect syntax from the given options.
+A) print("Hello World")
+B) print(5+3/2)
+C) print(Hello World)
+D) print("5+3")
+Answer: C
+
+Q9. Print Multiple Strings - MCQ
+What does the following code print?
+print("Code", "Chef")
+A) CodeChef
+B) Code Chef
+C) Code
+   Chef
+D) Code and Chef
+Answer: B
+
+Q10. Print 5 5
+How do you print "5 5" (single space in between)?
+A) print(5,5)
+B) print(5 5)
+C) print(5," ",5)
+D) print(5); print(5);
+Answer: A
+
+Q11. Output Format - MCQ
+What does the following code achieve?
+print(8)
+print(13, end=" ")
+print(21)
+A) Prints three numbers on separate lines
+B) Prints three numbers on the same line
+C) Prints one number on the first line, two numbers on the next line
+D) Throws a compilation error
+Answer: C
+
+Q12. Role of endl
+What is the role of "\n" in the below code?
+print(7, "\n", 5)
+A) Subtraction
+B) Addition
+C) Division
+D) None of the above
+Answer: D
+
+Q13. Print Python Programming
+To print "Python" and "Programming" on the same line with a space in between, you would write:
+A) print("PythonProgramming")
+B) print("Python ","Programming")
+C) print("Python","Programming")
+D) print("Python") print("Programming")
+Answer: C
+
+Q14. Print Many Literals - MCQ
+What will be the output of the following code snippet?
+print("Hello", "World", 5, "endl", 2)
+A) Hello World 5 endl 2
+B) Hello World5 2
+C) Hello World 5 2
+D) Hello World 5 endl 2
+Answer: A
+
+Q15. Output Challenge - MCQ
+What will the following Python code output?
+print("Hello")
+print(" World!")
+A) Hello World!
+B) HelloWorld!
+C) Hello
+    World!
+D) None of the above
+Answer: C
+
+Q16. Print 1 to 5
+How do you print the numbers 1 to 5 on the same line with spaces?
+A) print(1,2,3,4,5)
+B) print("1 2 3 4 5")
+C) Both A and B
+D) None of the above
+Answer: C
