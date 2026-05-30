@@ -1,0 +1,162 @@
+Q1. Print Output in Java
+What does the following code snippet do?
+public class Main {
+    public static void main(String[] args) {
+        System.out.println(21 + 40);
+    }
+}
+A) Reads two numbers from the console
+B) Adds two numbers and prints the result
+C) Multiplies two numbers and prints the result
+D) None of the above
+Answer: B
+
+Q2. Print Hello World
+How would you print the below text?
+Coding, Chef!
+A) System.out.println("Coding, Chef!");
+B) System.out.println(Coding, Chef!);
+C) System.out.println('Coding, Chef!');
+D) System.out.println(Coding + Chef);
+Answer: A
+
+Q3. Identify Correct Syntax
+What is the correct syntax for printing the number 5?
+A) print(5);
+B) display(5);
+C) console.log(5);
+D) System.out.println(5);
+Answer: D
+
+Q4. Print difference of 10 and 3
+How do you print the result of difference between 10 and 3?
+A) System.out.println(10 - 3);
+B) System.out.println(diff(10 - 3));
+C) diff(10 - 3)
+D) System.out.println(10 - 3)
+Answer: A
+
+Q5. Java Import Syntax
+Identify the correct syntax from the given options.
+A) import java.util.*
+B) import util.*;
+C) import java.util.*;
+D) import javautil;
+Answer: C
+
+Q6. Print String num
+How would you print the string stored in variable num?
+A) System.out.println(num);
+B) System.out.println("num");
+C) System.out.println(value(num));
+D) System.out.println(get(num));
+Answer: A
+
+Q7. Print 6 divided by 2
+How can you print the result of 6 divided by 2?
+A) System.out.println(6 / 2);
+B) div(6, 2);
+C) System.out.println(div(6, 2));
+D) None of the above
+Answer: A
+
+Q8. Identify Incorrect Syntax
+Identify the incorrect syntax(es) from the given options.
+A) System.out.println("Hello, World");
+B) System.out.println(5 + 3 / 2)
+C) System.out.println("Hello, World');
+D) System.out.println("5 + 3');
+Answer: B, C, D
+
+Q9. Guess the Output - String operations
+What does the following code print?
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Code" + "Chef");
+    }
+}
+A) CodeChef
+B) Code Chef
+C) Code
+   Chef
+D) Code and Chef
+Answer: A
+
+Q10. Print 5 5
+How do you print 5 5?
+A) System.out.println(5 + 5);
+B) System.out.println(5, 5);
+C) System.out.println(5 + " " + 5);
+D) System.out.println(5); System.out.println(5);
+Answer: C
+
+Q11. Guess the Output - Multiple print
+What does the following code achieve?
+public class Main {
+    public static void main(String[] args) {
+        System.out.println(8 + "\n" + 13 + " " + 21 + "\n");
+    }
+}
+A) Prints three numbers on separate lines
+B) Prints three numbers on the same line
+C) Prints one number on the first line, two numbers on the next line
+D) Throws a compilation error
+Answer: C
+
+Q12. MCQ - Escape Sequence Usage
+What is the role of "\n" in the below code?
+public class Main {
+    public static void main(String[] args) {
+        System.out.println(7 + "\n" + 5);
+    }
+}
+A) Subtraction
+B) Addition
+C) Division
+D) None of the above
+Answer: D
+
+Q13. Print Java Programming
+To print "Java" and "Programming" on the same line with a space in between, you would write:
+A) System.out.println("JavaProgramming");
+B) System.out.println("Java " + "Programming");
+C) System.out.println("Java" + "Programming");
+D) System.out.println("Java" + "\n" + "Programming");
+Answer: B
+
+Q14. Guess the Output - String concatenation
+What will be the output of the following code snippet?
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello " + "World" + 5 + " endl" + 2);
+    }
+}
+A) Hello World5 endl2
+B) Hello World5
+   2
+C) Hello World 5
+   2
+D) Hello World 5 endl 2
+Answer: A
+
+Q15. Guess the Output
+What will the following code output?
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello_" + "\n" + " World!");
+    }
+}
+A) Hello World!
+B) HelloWorld!
+C) Hello_
+    World!
+D) None of the above
+Answer: C
+
+Q16. Print 1 to 5
+How do you display the numbers 1 to 5 on the same line with spaces?
+A) System.out.println(1 + " " + 2 + " " + 3 + " " + 4 + " " + 5);
+B) System.out.println("1 2 3 4 5");
+C) Both A and B
+D) None of the above
+Answer: C
