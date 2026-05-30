@@ -1,0 +1,68 @@
+Q1. MCQ - Variable Declaration
+What does the following code represent?
+int age = 25;
+A) Printing the age variable
+B) Storing the value 25 in the age variable
+C) Declaring the age as a constant
+D) Initializing a boolean variable
+Answer: B
+
+Q2. MCQ - Char Declaration Basics
+Identify the correct syntax to use char data type
+A) character ch = 'c';
+B) char ch = 'ch';
+C) char ch 'ch'
+D) None of the above
+Answer: D
+Explanation: In Java/C/C++, a valid char must hold a single character inside single quotes. Option B fails because 'ch' has two characters, and Option D is correct since none of the syntax variations are completely right.
+
+Q3. MCQ - Arithmetic operators
+What is the output of the following code?
+System.out.println(7.0 / 2);
+A) 3.5
+B) 3
+C) 2.5
+D) 4
+Answer: A
+
+Q4. MCQ - Boolean values
+Identify the incorrect syntax from the given options.
+A) boolean b = false;
+B) boolean b = 1;
+C) boolean b = 2;
+D) Both B and C
+Answer: D
+Explanation: In Java, a boolean variable can only accept true or false literal values. Storing integer numbers like 1 or 2 results in a compilation error.
+
+Q5. Guess the Output
+What does the following code represent?
+char ch = 'B';
+A) Declaring a boolean variable
+B) Declaring and initializing a character variable
+C) Initializing an integer variable
+D) Printing the character 'B'
+Answer: B
+
+Q6. Declare Double Data Type
+How is a variable of type double declared?
+A) double area = 3.9;
+B) double = 3.9;
+C) area double 3.9;
+D) area = 3.9;
+Answer: A
+
+Q7. Declare Long Data Type
+How do you declare a variable of type long storing the value 954200?
+A) long num(954200);
+B) long num = 954200L;
+C) long num 954200;
+D) None of the above
+Answer: B
+
+Q8. Identify correct syntax
+Identify the correct syntax for initializing a boolean variable.
+A) boolean b = false;
+B) (bool) b = false;
+C) bool b = 1;
+D) None of the above
+Answer: A
